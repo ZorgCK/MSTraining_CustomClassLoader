@@ -1,0 +1,11 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-storage-embedded/05.00.02-MS-GA/microstream-storage-embedded-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-storage/05.00.02-MS-GA/microstream-storage-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-afs-nio/05.00.02-MS-GA/microstream-afs-nio-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-afs/05.00.02-MS-GA/microstream-afs-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-persistence-binary/05.00.02-MS-GA/microstream-persistence-binary-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-persistence/05.00.02-MS-GA/microstream-persistence-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-storage-embedded-configuration/05.00.02-MS-GA/microstream-storage-embedded-configuration-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-configuration/05.00.02-MS-GA/microstream-configuration-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/one/microstream/microstream-base/05.00.02-MS-GA/microstream-base-05.00.02-MS-GA.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

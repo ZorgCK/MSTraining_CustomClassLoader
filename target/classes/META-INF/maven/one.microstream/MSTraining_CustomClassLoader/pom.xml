@@ -1,0 +1,40 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>one.microstream</groupId>
+  <artifactId>MSTraining_CustomClassLoader</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.0</version>
+				<configuration>
+					<release>11</release>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+	
+	<properties>
+		<packaging>jar</packaging>
+		<jdk.version>11</jdk.version>
+		<release.version>11</release.version>
+		<exec.mainClass>one.microstream.MainStart</exec.mainClass>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>one.microstream</groupId>
+			<artifactId>microstream-storage-embedded</artifactId>
+			<version>07.01.00-MS-GA</version>
+		</dependency>
+		<dependency>
+			<groupId>one.microstream</groupId>
+			<artifactId>microstream-storage-embedded-configuration</artifactId>
+			<version>07.01.00-MS-GA</version>
+		</dependency>
+	</dependencies>
+	
+</project>
